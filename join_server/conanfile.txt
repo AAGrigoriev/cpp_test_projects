@@ -1,0 +1,7 @@
+[requires]
+taocpp-pegtl/3.2.7
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout
